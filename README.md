@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm sasas991 👋
 
-<!--
-**sasas991/sasas991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student & developer interested in **Android, Linux and backend**.
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 **Refresh Rate Governor**
+Automatically switches screen refresh rate depending on power supply.
+
+[<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" height="70">](https://extensions.gnome.org/extension/9197/refresh-rate-governor/)
+
+📡 **Wol Panel**
+Wake devices remotely over a local network.
+
+### 🛠️ Tech
+
+`Kotlin` · `Java` · `Python` · `FastAPI` · `Linux` · `Git`
