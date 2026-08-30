@@ -14,7 +14,7 @@
 
 📱 **Refresh Rate Governor**
 
-Automatically switches screen refresh rate depending on power supply.
+GNOME Shell extension designed to automatically switch your monitor's screen refresh rate based on your power supply status.
 
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" height="55">](https://extensions.gnome.org/extension/9197/refresh-rate-governor/)
 
