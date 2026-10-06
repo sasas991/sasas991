@@ -23,7 +23,9 @@ GNOME Shell extension designed to automatically switch monitor's screen refresh 
 
 📡 **Wol Panel**
 
-Wake devices remotely over a local network.
+Android app for remotely waking up computers and other devices using Wake-on-LAN, with a simple and convenient interface.
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="65">](https://f-droid.org/en/packages/com.sasas991.wolpanel/)
 
   </td>
   </tr>
