@@ -10,28 +10,36 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+🎙️ **Vovuvo**
+
+Voice changer for Android: 15 effects, effect chains, per-segment editing, audio and video export - all processed offline on the device.
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.sasas991.vovuvo)
+
+  </td>
+    <td width="33%" valign="top">
 
 📱 **Refresh Rate Governor**
 
 GNOME Shell extension designed to automatically switch monitor's screen refresh rate based on power supply status.
 
-[<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" height="55">](https://extensions.gnome.org/extension/9197/refresh-rate-governor/)
+[<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" height="50">](https://extensions.gnome.org/extension/9197/refresh-rate-governor/)
 
   </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 📡 **Wol Panel**
 
 Android app for remotely waking up computers and other devices using Wake-on-LAN, with a simple and convenient interface.
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="65">](https://f-droid.org/en/packages/com.sasas991.wolpanel/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="60">](https://f-droid.org/en/packages/com.sasas991.wolpanel/)
 
   </td>
   </tr>
 </table>
 
----
 
 ### 🛠️ Tech
 
