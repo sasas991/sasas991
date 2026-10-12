@@ -12,7 +12,7 @@
   <tr>
     <td width="33%" valign="top">
 
-🎙️ **Vovuvo**
+ **Vovuvo**
 
 Voice changer for Android: 15 effects, effect chains, per-segment editing, audio and video export - all processed offline on the device.
 
@@ -21,7 +21,7 @@ Voice changer for Android: 15 effects, effect chains, per-segment editing, audio
   </td>
     <td width="33%" valign="top">
 
-📱 **Refresh Rate Governor**
+ **Refresh Rate Governor**
 
 GNOME Shell extension designed to automatically switch monitor's screen refresh rate based on power supply status.
 
@@ -30,7 +30,7 @@ GNOME Shell extension designed to automatically switch monitor's screen refresh 
   </td>
     <td width="33%" valign="top">
 
-📡 **Wol Panel**
+ **Wol Panel**
 
 Android app for remotely waking up computers and other devices using Wake-on-LAN, with a simple and convenient interface.
 
